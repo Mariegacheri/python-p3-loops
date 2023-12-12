@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 from looping import happy_new_year, square_integers, fizzbuzz
 
 import io
